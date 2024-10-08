@@ -121,7 +121,7 @@ const Navbar = () => {
             className="w-8 md:w-12 h-8 md:h-12 rounded-full bg-white"
           />
           <h2 className="font-bold text-white text-sm md:text-xl">
-            <span className="text-orange">Next</span> Shop
+            <span className="text-orange">Tech</span> Essentials
           </h2>
         </div>
 
